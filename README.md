@@ -1,2 +1,2 @@
 # JS-Checkio
-Link to my profile to Checkio platform.
+Link to my profile on Checkio platform.
